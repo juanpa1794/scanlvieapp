@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "442169146467",
+    "firebase_url": "https://scanlive-3d6eb.firebaseio.com",
+    "project_id": "scanlive-3d6eb",
+    "storage_bucket": "scanlive-3d6eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442169146467:android:470caf3ddd0c606b26cc56",
+        "android_client_info": {
+          "package_name": "com.example.scanlive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "442169146467-oh1h8qo2d7cesvekn1qqc3a9qq0mknrs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.scanlive",
+            "certificate_hash": "e6c060e668297d07a0bc3a5b4a5f27751e62d6a8"
+          }
+        },
+        {
+          "client_id": "442169146467-9bo16o31i2vgbjh16109d1pf4lunqdh1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhYiSqMJCWr1ybI6mUjOpNjr9eeNgb0rw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "442169146467-9bo16o31i2vgbjh16109d1pf4lunqdh1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

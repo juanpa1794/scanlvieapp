@@ -1,0 +1,38 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <!-- color principal #4CA28E -->
+        <item name="colorPrimary">#4CA28E</item>
+        <item name="colorPrimaryDark">#3F8A79</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <!-- estilo para splashscreen -->
+    <style name="SplashTheme" parent="AppTheme">
+        <item name="android:windowBackground">@drawable/splashscreen</item>
+    </style>
+
+
+    <!-- Base application theme. text color -->
+    <style name="ActionBarTitleTextStyle" parent="TextAppearance.AppCompat.Widget.ActionBar.Title">
+
+        <item name="android:textStyle">italic</item>
+
+    </style>
+
+    <style name="ActionBarLight" parent="android:style/Widget.Holo.Light.ActionBar">
+        <item name="android:background">#FFEB3B</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+
+</resources>
